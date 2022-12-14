@@ -1,0 +1,55 @@
+.combo{
+    background-color: #ffffff;
+    width: 19rem;
+    margin: 20px;
+}
+.combo img{
+    width: 100%;
+    height: 300px;
+}
+.combo .card-body h5{
+    text-align: justify;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+.combo .card-body p{
+    text-align: justify;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+.combo .card-body a{
+    color: #ffffff;
+}
+
+/* DetailsCombo */
+.img-combo-detail{
+    width: 40%;
+    float: left;
+}
+.detail-combo{
+    margin-left: 480px;
+}
+.detail-combo .stars-rating__review{
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+.detail-combo .combo-price{
+    font-size: 20px;
+    padding-right: 10px;
+    color: #0000ff;
+}
+.detail-combo .combo-discount{
+    color: #ff0000;
+}
+.detail-combo .combo-details__availability .stock{
+    color: #30b975;
+    float: right;
+    padding-right: 65%;
+}
+.detail-combo .combo-details__availability .free{
+    color: #30b975;
+    float: right;
+    padding-right: 65%;
+}

@@ -1,0 +1,17 @@
+.invalid-validate {
+  font-size: smaller;
+  color: #dc3545;
+}
+
+.login-container {
+  display: grid;
+  align-items: center;
+}
+
+label {
+  text-transform: none !important;
+}
+
+a {
+  cursor: pointer;
+}

@@ -1,0 +1,24 @@
+.news{
+    background-color: #ffffff;
+    width: 19rem;
+    margin: 20px;
+}
+.news img{
+    width: 100%;
+    height: 200px;
+}
+.news .card-body h5{
+    text-align: justify;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+.news .card-body p{
+    text-align: justify;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+.news .card-body a{
+    color: #ffffff;
+}

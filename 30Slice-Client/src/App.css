@@ -1,0 +1,15 @@
+.radio-custom {
+  appearance: none;
+  
+}
+.radio-custom::before{
+  content: "Chọn dịch vụ";
+  padding: 0 10px 0 10px;
+  
+}
+.radio-custom:checked::before{
+  content: "Đã chọn dịch vụ";
+  background-color: #2c99ff;
+  color: white;
+  
+}
